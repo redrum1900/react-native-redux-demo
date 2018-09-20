@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/redrum/apps/react-redux-demo/node_modules/react-native/third-party/glog-0.3.4/src/demangle.cc \
-  /Users/redrum/apps/react-redux-demo/node_modules/react-native/React/../third-party/glog-0.3.4/src/demangle.h \
-  /Users/redrum/apps/react-redux-demo/node_modules/react-native/React/../third-party/glog-0.3.4/src/config.h
+  /Users/redrum/apps/reactReduxTest/node_modules/react-native/third-party/glog-0.3.4/src/demangle.cc \
+  /Users/redrum/apps/reactReduxTest/node_modules/react-native/React/../third-party/glog-0.3.4/src/demangle.h \
+  /Users/redrum/apps/reactReduxTest/node_modules/react-native/React/../third-party/glog-0.3.4/src/config.h
